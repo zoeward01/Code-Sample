@@ -1,7 +1,3 @@
-Here's the same GitHub README section with all emojis removed for a cleaner, professional look:
-
----
-
 ## Jupyter Notebook Analysis: `ward_final.ipynb`
 
 This repository includes a full analysis of the dataset `Country_Level_Results_by_Modality_Coarse_Age_and_Sex.txt` using Python and Jupyter Notebook. The notebook outlines a complete data processing, analysis, and visualization workflow.
